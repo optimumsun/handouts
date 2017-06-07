@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: handouts
-  host: handouts
+  name: bluemix-event-houston
+  host: bluemix-event-houston
   disk_quota: 1024M
